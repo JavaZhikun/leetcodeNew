@@ -21,6 +21,7 @@ public class RemoveDuplicatesFromSortedArrayII
 	{
 		int[]  a ={1,1,1,2,2,2,3};
 		System.out.println(removeDuplicates(a,a.length));
+		float aa = 1234567.8910f;
+		System.out.println(aa);
 	}
-
 }
