@@ -1,4 +1,4 @@
-package 排序;
+package array;
 
 //将两个已经排好序的数组合并成为一个数组
 
